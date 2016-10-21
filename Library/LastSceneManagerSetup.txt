@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GameMechanicsTests/ObjectPlacing/Scenes/PlaceAnObject.unity
+  isLoaded: 1
+  isActive: 1
